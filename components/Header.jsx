@@ -1,6 +1,6 @@
-import React from 'react';
+import React from "react";
 
-const React = () => {
+const Header = () => {
     return (
         <header className="bg-gray-800 py-4">
             <div className="container mx-auto">
@@ -9,5 +9,5 @@ const React = () => {
                 {/* going to add nav links in here */}
             </div>
         </header>
-    )
-}
+    );
+};
