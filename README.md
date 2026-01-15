@@ -13,7 +13,7 @@
   ## Description
   A small detailed description of what I know and what I can do in this field of study displaying my interests in this field.
   ## Requirements
-  empty for now 
+  Make sure that you install all dependencies in order for it to work 
   ## Usage
   React 
   ## Contact-Me
